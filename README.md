@@ -8,6 +8,10 @@ Welcome to the **Business Insights 360** Power BI Dashboard! This project provid
 The **Business Insights 360** dashboard is a dynamic solution designed to empower data-driven decision-making and drive strategic growth. With an intuitive interface and powerful visualizations, this project offers a holistic view of business performance, enabling stakeholders to gain critical insights at a glance.
 
 ---
+## 🌟 Live Dashboard: [Click here](https://app.powerbi.com/view?r=eyJrIjoiM2I4YTM3NDMtMGEzZi00NjQ4LTliOGEtM2JjZWMzNmQ0N2FjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 👈 
+## 🌟 Video Presentation: [Click here](https://www.linkedin.com/posts/ujjalmondal_powerbi-dataanalytics-businessinsight360-activity-7270033693883146241-eMbJ?utm_source=share&utm_medium=member_desktop)👈
+
+---
 
 ## 📊 Key Features
 - **Homepage**: A quick overview with intuitive buttons for easy navigation.
